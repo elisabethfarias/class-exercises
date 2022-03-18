@@ -1,6 +1,5 @@
-<h1>ExerciciosClasses </h1>
+<h1>Exercícios Classes Kotlin </h1>
 
-<p align="center">▶️ <a href="https://www.youtube.com/watch?v=xeNGdvNrU6A&list=PL8kiySPPUO-xTcQQ-dY6QBkySwshCyUFh">PLAYLIST COM OS EXERCÍCIOS RESOLVIDOS POO CLASSES - JAVA  </a>▶️</p>
 <p align="center">⚠️<em> Alguns dos exercícios foram adaptados do <a href="https://wiki.python.org.br/ExerciciosClasses">site Python Brasil! </a></em>⚠️</p>
 
 <h2>
@@ -73,18 +72,11 @@ A bomba inicia com 100 L de combustível.<br>
   </li>
 </ol>
 
-<h2> 🤝 Contribuindo </h2>
 
-Este repositório foi criado para fins de estudo, então contribua com ele.
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+---------------
 
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
-
+Exercícios disponibilizado por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la") digital innovation one.
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+
