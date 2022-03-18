@@ -13,4 +13,8 @@ fun main() {
     val squarePerimeter = square.calculatePerimeterSquareArea()
     println(squarePerimeter)
 
+    val student = Student("Elisabeth", 1993)
+    val resultAge = student.calculateAge(2022)
+    println(resultAge)
+
 }
