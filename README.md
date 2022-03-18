@@ -2,16 +2,6 @@
 
 <p align="center">⚠️<em> Alguns dos exercícios foram adaptados do <a href="https://wiki.python.org.br/ExerciciosClasses">site Python Brasil! </a></em>⚠️</p>
 
-<h2>
-🛑 Pré-requistos
-</h2>
-
-- [x] JDK 8+
-- [x] IDE Java de sua preferência (usarei IntelliJ)<br>
-<a href="https://web.digitalinnovation.one/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84/?back=/browse">Curso Dominando IDEs Java</a>
-- [x] Noções acerca do Paradigma Orientado a Objetos
-- [x] Conhecer o básico da Sintaxe Java
-
 
 <ol>
   <li>
