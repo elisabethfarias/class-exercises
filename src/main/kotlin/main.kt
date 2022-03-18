@@ -5,4 +5,12 @@ fun main() {
 
     val resultPerimeter = rectangle.calculatePerimeterRectangle()
     println(resultPerimeter)
+
+    val square = Square(10.0)
+    val squareResultArea = square.calculateSquareArea()
+    println(squareResultArea)
+
+    val squarePerimeter = square.calculatePerimeterSquareArea()
+    println(squarePerimeter)
+
 }
